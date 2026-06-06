@@ -7,13 +7,6 @@ You're in a cave (THM)
 
  Start Machine
 
-Hello, i made this room to be a fun challenge very CTF-like, the room acts like you are a RPG adventurer and is passing through some challenges, hope you like it :D  
-
-  
-
-Icon made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
-
-Answer the questions below
 
 ```
 
